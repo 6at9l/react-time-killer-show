@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/static/js/main.6a193430.chunk.js",
+    "main.js.map": "/static/js/main.6a193430.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e682c5b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e682c5b.js.map",
+    "static/js/2.0c648e34.chunk.js": "/static/js/2.0c648e34.chunk.js",
+    "static/js/2.0c648e34.chunk.js.map": "/static/js/2.0c648e34.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8729bf2a71e78bbf4c4c78e79195e0c1.js": "/precache-manifest.8729bf2a71e78bbf4c4c78e79195e0c1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.0c648e34.chunk.js.LICENSE.txt": "/static/js/2.0c648e34.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/static/media/background.4359c6bb.png",
+    "static/media/lightShot.png": "/static/media/lightShot.b60e4bc1.png",
+    "static/media/monster.png": "/static/media/monster.06b0e7dd.png",
+    "static/media/wizard.png": "/static/media/wizard.516ee8f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e682c5b.js",
+    "static/js/2.0c648e34.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.6a193430.chunk.js"
+  ]
+}
